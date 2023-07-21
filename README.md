@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<h1>Amr Badawy</h1>
 <!--
 **Amr98-badawy/Amr98-badawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
