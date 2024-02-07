@@ -4,9 +4,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Amr98-badawy.Amr98-badawy&"  />
-</div>
+
 
 ###
 
